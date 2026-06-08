@@ -1,0 +1,6 @@
+{
+  "name": "AI Real Estate Property Recommendation Agent",
+  "description": "An Arabic & English AI agent that understands natural language property requests, extracts criteria, and recommends the best matching real estate listings with explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
